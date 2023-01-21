@@ -1,0 +1,99 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 141px;
+    margin: 49px 52px;
+}
+
+input{ 
+    width: 550px;
+    height: 30px;
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #808080;
+    border-radius: 7px;
+
+}
+sup{
+    color: red;
+}
+
+#select{ 
+    width: 558px;
+    height: 36px;
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #808080;
+    border-radius: 7px;
+
+}
+
+textarea{
+    width: 550px;
+    height: 150px;
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #808080;
+    border-radius: 7px;
+}
+
+#left{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+button{
+    position: absolute;
+    height: 34px;
+    width: 150px;
+    left: 467px;
+    top: 494px;
+    border-radius: 7px;
+
+}
+
+a{
+    position: absolute;
+    height: 34px;
+    width: 150px;
+    left: 77px;
+    top: 502px;
+    font-weight: 492;
+}
+
+#l4{
+    padding-left: 75px;
+    width: 475px;
+    margin-top: 8px;
+}
+
+#checkboxes{
+    margin-top: 20px;
+}
+#cb{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 15px;
+}
+
+#counter{
+    margin-top: 22px;
+    margin-left:5px;
+    letter-spacing: 0.7cm;
+    color: #808080;
+    width: 75px;
+    height: 20px;
+    border: 1px solid #808080;
+    padding: 5px 10px;
+    border-radius: 7px;
+}
